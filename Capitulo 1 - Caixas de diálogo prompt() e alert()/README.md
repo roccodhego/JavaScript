@@ -1,4 +1,4 @@
-# Exercícios propostos.
+# Exercícios propostos Capítulo 1.
 <p> a) Elaborar um programa que leia um número. Calcule e informe os seus
 vizinhos, ou seja, o número anterior e posterior.<br>
 Exemplo:<br>
