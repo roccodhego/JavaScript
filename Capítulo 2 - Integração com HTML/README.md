@@ -1,4 +1,4 @@
-## Atividades Capítulo 2
+# Exercícios propostos Capítulo 2.
 
 2.1) Elaborar um programa onde escreva o nome e ao clicar no botão Mostrar, a mensagem Olá seguida do nome é exibida.
 
